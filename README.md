@@ -15,8 +15,8 @@ Columns used include country, country_long, capital_city, region, continent, pop
 # Notes
    The political_leader column is a snapshot from when the dataset was created, so some leaders may have changed since.
 # How to run
-pip install pandas numpy jupyter
+   pip install pandas numpy jupyter
 # keep Countries.csv in the same folder as the notebook
-jupyter notebook project2_pandas_.ipynb
-Author
-Aridaman Singh 
+   jupyter notebook project2_pandas_.ipynb
+# Author
+   Aridaman Singh 
